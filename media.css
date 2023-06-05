@@ -1,0 +1,47 @@
+@media(max-width:500px){
+.imp{
+    width: 400%;
+}
+.content{
+    height: 25vh;
+}
+.cont-1{
+    height: 50vh;
+}
+.content-3{
+    margin-top: 6rem;
+}
+.content-5{
+    margin-top: 6rem;
+}
+.content-6{
+    margin-top: 6rem;
+}
+.content-7{
+    margin-top: 6rem;
+}
+.content-8{
+    margin-top: 6rem;
+}
+.cont-6{
+    margin-top: 7rem;
+}
+.content-9{
+    margin-top: 5rem;
+}
+.content-10{
+    margin-top: 6rem;
+}
+.content-11{
+    margin-top: 7rem;
+}
+.cont-7{
+    margin-top: 6rem;
+}
+.cont-11{
+    margin-top: 5rem;
+}
+.cont-10{
+    margin-top: 3rem;
+}
+}

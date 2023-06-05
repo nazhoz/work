@@ -1,0 +1,20 @@
+@media(max-width:500px){
+    .im{
+        width: 400%;
+    }
+.mainpart{
+    margin-top: 3rem;
+}
+.contain-3{
+    margin-top: 3rem;
+}
+.contain-4{
+    margin-top: 5rem;
+}
+.contain-5{
+    margin-top: 5rem;
+}
+.mainpart-1{
+    margin-top: 70rem;
+}
+}
