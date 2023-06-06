@@ -15,6 +15,24 @@
     margin-top: 5rem;
 }
 .mainpart-1{
-    margin-top: 70rem;
+    margin-top: 80rem;
+}
+.j{
+    width: 400%;
+}
+.auth3{
+    display: flex;
+    flex-direction: column;
+}
+.au2{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+    height: 50vh;
+}
+.na{
+    display: flex;
+    width: 60%;
 }
 }

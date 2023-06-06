@@ -38,6 +38,14 @@
 .t{
     width: 180%;
     height: 5vh;
+    display: flex;
+    flex-direction: row;
+}
+.appu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
 }
 .t8{
     height: 5vh;
@@ -56,6 +64,17 @@ align-items: center;
 justify-content: space-evenly;
 flex-direction: row;
 border-bottom: 1px solid red;
+}
+.navb{
+    width: 100%;
+}
+
+.navbar-nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
 }
 .dropdown-item{
     font-size: 20px ;
@@ -130,13 +149,14 @@ box-shadow: none;
     flex-direction: column;
     align-items: center;
     height: 90vh;
+    width: 100%;
 }
 .cont-5{
     display: flex;
-    flex-direction: row;
+
     justify-content: space-evenly;
     align-items: center;
-    width: 100%;
+    width:100%;
 }
 .content-4{
 height: 35vh;
@@ -147,15 +167,55 @@ align-items: center;
 border-top: 3px solid rgb(160, 159, 159);
 border-bottom: 3px solid rgb(160, 159, 159);
 }
+.card-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+
+}
+
+.con-5{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    border: 1px solid black;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
 .cont-1{
 margin-top: 4rem;
 display: flex;
 justify-content:center;
 align-items: center;
 }
+.grp{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+.grp-1{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+.grp-3{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+.grp-2{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
 .c1{
-    width: 10%;
-    height: 15vh;
+    width: 100px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
